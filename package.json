@@ -1,0 +1,22 @@
+{
+  "name": "ai-agent",
+  "version": "0.0.1",
+  "description": "# Terminal commands track",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "poetry run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orbis1/ai-agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orbis1/ai-agent/issues"
+  },
+  "homepage": "https://github.com/Orbis1/ai-agent#readme"
+}
