@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "poetry run start",
-    "chat": "poetry run chat"
+    "chat": "poetry run chat",
+    "ask": "poetry run ask"
   },
   "repository": {
     "type": "git",
