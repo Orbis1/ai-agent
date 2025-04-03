@@ -25,3 +25,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 start = "ai_agent.main:main"
+chat = "ai_agent.main:chat"
