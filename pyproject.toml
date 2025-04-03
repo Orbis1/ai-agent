@@ -18,6 +18,8 @@ rapidfuzz = "^3.12.2"
 
 [tool.poetry.group.dev.dependencies]
 python-dotenv = "^1.1.0"
+black = "^25.1.0"
+ruff = "^0.11.3"
 
 [build-system]
 requires = ["poetry-core"]

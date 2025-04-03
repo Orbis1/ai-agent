@@ -17,8 +17,10 @@ poetry add langgraph-sdk
 poetry add rapidfuzz
 
 poetry add python-dotenv --group dev
-poetry add black --group dev // for .py formatting
 
+// Code formatting
+poetry add black --group dev
+poetry add ruff --group dev
 ```
 
 # Milestones
