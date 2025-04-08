@@ -9,7 +9,8 @@
   "scripts": {
     "start": "poetry run start",
     "chat": "poetry run chat",
-    "ask": "poetry run ask"
+    "ask": "poetry run ask",
+    "read": "poetry run python src/ai_agent/read_book.py"
   },
   "repository": {
     "type": "git",
